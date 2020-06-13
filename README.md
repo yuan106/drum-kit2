@@ -1,1 +1,3 @@
 # drum-kit2
+advanced js and dom
+addEventListener,animation,higher order function...
